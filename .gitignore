@@ -1,0 +1,10 @@
+.ccls-cache
+.cache
+.vscode/launch.json
+.vscode/tasks.json
+.vscode
+compile_commands.json
+*.pdb
+*.obj
+*.ilk
+imgui.ini
